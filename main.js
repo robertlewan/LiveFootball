@@ -1,3 +1,5 @@
+const api_key = config.API_KEY;
+
 const elapsedTime = document.getElementById('elapsed');
 const homeTeamImg = document.getElementById('homeLogo');
 const homeTeamName = document.getElementById('homeName');
